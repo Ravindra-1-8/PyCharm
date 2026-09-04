@@ -21,4 +21,4 @@ class Car:
         print("300mph")
 
 c1 = Car()# object creation.
-c1.speed()
+c1.speed() # calling the function.
