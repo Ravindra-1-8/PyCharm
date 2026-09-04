@@ -1,5 +1,5 @@
-#Create a design for CAR = Class.
-#To create a Real Product = Object.
+#Create a design for CAR -> Class - like a design/blueprint.
+#To create a Real Product -> Object - like a real thing made from design.
 
 class Car:
     name = "Volvo"
